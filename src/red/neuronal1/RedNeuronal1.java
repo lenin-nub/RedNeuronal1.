@@ -39,8 +39,7 @@ public class RedNeuronal1 {
         System.out.println("Como utiizaria usted la red neuronal como mejoramiento del proyecto propuesto:");
         String comoutil =objeto.nextLine();
         
-        System.out.println("En que consistio el entrenamineto utilizando la red neuronal,e indique el algoritmo utilizado:");
-        String consis =objeto.nextLine();
+        
         
         
         
